@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oongievahb.scm-backup.org/sitemap.xml
